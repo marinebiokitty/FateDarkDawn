@@ -1,0 +1,14 @@
+LaTeX/FDD_path.cls.tex
+LaTeX/FDD_path.cls
+*.aux
+*.pdf
+*.gz
+*.log
+*.sty~
+*.cls~
+*.gz(busy)
+*.toc
+*.fls
+*.dvi
+*.tex~
+*latexmk

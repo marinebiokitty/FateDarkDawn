@@ -1,1 +1,0 @@
-\edef\gamepath{"C:/Users/charf/OneDrive/Documents/GitHub/GL2020"}  
